@@ -1,10 +1,7 @@
 {
   "name": "react-native-template-pity-app",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "React native template with react-navigation.",
-  "scripts": {
-    "test": "exit 0"
-  },
   "files": [
     "template",
     "template.config.js"
